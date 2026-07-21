@@ -1,0 +1,82 @@
+版本号：1.0.2
+维护者：V-Lipset
+更新时间：2026-07-22
+
+// 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
+// 正则表达式区域外，使用引号包裹带有标点符号的原文词条
+
+词条
+// 弹丸论破系列角色中日英三语对照
+Makoto Naegi (苗木 誠) = 苗木诚
+Sayaka Maizono (舞園 さやか) = 舞园沙耶香
+Leon Kuwata (桑田 怜恩) = 桑田怜恩
+Kyoko Kirigiri (霧切 響子) = 雾切响子
+Byakuya Togami (十神 白夜) = 十神白夜
+Hifumi Yamada (山田 一二三) = 山田一二三
+Mondo Owada (大和田 紋土) = 大和田纹土
+Toko Fukawa (腐川 冬子) = 腐川冬子
+Aoi Asahina (朝比奈 葵) = 朝比奈葵
+Kiyotaka Ishimaru (石丸 清多夏) = 石丸清多夏
+Sakura Ogami (大神 さくら) = 大神樱
+Junko Enoshima (江ノ島 盾子) = 江之岛盾子
+Mukuro Ikusaba (戦刃 骸) = 战刃骸
+Celestia Ludenberg (セレスティア・ルーデンベルク) = 赛蕾丝缇雅·罗登贝尔格
+Yasuhiro Hagakure (葉隠 康比呂) = 叶隐康比吕
+Chihiro Fujisaki (不二咲 千尋) = 不二咲千寻
+
+Hajime Hinata (日向 創) = 日向创
+Nagito Komaeda (狛枝 凪斗) = 狛枝凪斗
+Chiaki Nanami (七海 千秋) = 七海千秋
+Kazuichi Soda (左右田 和一) = 左右田和一
+Akane Owari (終里 赤音) = 终里赤音
+Nekomaru Nidai (弐大 猫丸) = 弐大猫丸
+Gundham Tanaka (田中 眼蛇夢) = 田中眼蛇梦
+Ibuki Mioda (澪田 唯吹) = 澪田唯吹
+Hiyoko Saionji (西園寺 日寄子) = 西园寺日寄子
+Mahiru Koizumi (小泉 真昼) = 小泉真昼
+Mikan Tsumiki (罪木 蜜柑) = 罪木蜜柑
+Fuyuhiko Kuzuryu (九頭龍 冬彦) = 九头龙冬彦
+Peko Pekoyama (辺古山 ペコ) = 边古山佩子
+Sonia Nevermind (ソニア・ネヴァマインド) = 索尼娅·内瓦曼德
+Teruteru Hanamura (花村 輝々) = 花村辉辉
+Izuru Kamukura (神座 出流) = 神座出流
+"-chan" = 酱
+Monomi / Usami (モノミ / ウサミ) = 莫诺美 / 兔美
+
+Kaede Akamatsu (赤松 楓) = 赤松枫
+Shuichi Saihara (最原 終一) = 最原终一
+Kokichi Oma (王馬 小吉) = 王马小吉
+Maki Harukawa (春川 魔姫) = 春川魔姬
+Kaito Momota (百田 解斗) = 百田解斗
+Miu Iruma (入間 美兎) = 入间美兔
+Rantaro Amami (天海 蘭太郎) = 天海兰太郎
+Ryoma Hoshi (星 竜馬) = 星龙马
+Kirumi Tojo (東条 斬美) = 东条斩美
+Angie Yonaga (夜長 アンジー) = 夜长安吉
+Tenko Chabashira (茶柱 転子) = 茶柱转子
+Korekiyo Shinguji (真宮寺 是清) = 真宫寺是清
+Gonta Gokuhara (獄原 ゴン太) = 狱原坤太
+Himiko Yumeno (夢野 秘密子) = 梦野秘密子
+Tsumugi Shirogane (白銀 つむぎ) = 白银䌷
+K1-B0 (キーボ) = 机保
+Monotaro (モノタロウ) = 蒙诺太郎
+Monodam (モノダム) = 蒙诺德姆
+Monosuke (モノスケ) = 蒙诺助
+Monokid (モノキッド) = 蒙诺基德
+Monophanie (モノファニー) = 蒙诺法妮
+
+Komaru Naegi (苗木 こまる) = 苗木困
+Genocide Jack (ジェノサイダー翔) = 杀人鬼翔
+
+通用词条
+Hope's Peak Academy (希望ヶ峰学園) = 希望之峰学园
+Ultimate (超高校級) = 超高校级
+Future Foundation (未来機関) = 未来机关
+Ultimate Despair (超高校級の絶望) = 超高校级绝望
+Ultimate Hope (超高校級の希望) = 超高校级希望
+
+禁翻词条
+
+
+正则表达式
+\bK1-B0\b: 机保
