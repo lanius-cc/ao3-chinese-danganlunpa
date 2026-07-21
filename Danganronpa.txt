@@ -1,0 +1,94 @@
+版本号：1.0.1
+维护者：AO3_Translator_User
+更新时间：2026-06-12
+
+// ==========================================
+// 通用词条区：不区分大小写，自动处理复数与连字符
+// ==========================================
+通用词条
+
+// 2代 角色
+Hinata Hajime = 日向 创
+Kamukura Izuru = 神座 出流
+Komaeda Nagito = 狛枝 凪斗
+Nanami Chiaki = 七海 千秋
+Kuzuryu Fuyuhiko = 九头龙 冬彦
+Pekoyama Peko = 边古山 佩子
+Koizumi Mahiru = 小泉 真昼
+Saionji Hiyoko = 西园寺 日寄子
+Nidai Nekomaru = 二大 猫丸
+Owari Akane = 终里 赤音
+Sonia Nevermind = 索尼娅 内瓦麦
+Soda Kazuichi = 左右田 和一
+Tanaka Gundham = 田中 眼蛇梦
+Tsumiki Mikan = 罪木 蜜柑
+Mioda Ibuki = 澪田 唯吹
+Hanamura Teruteru = 花村 辉辉
+Ryota Mitarai= 御手洗 亮太
+Natsumi：菜摘
+Monomi：莫诺美
+Monomi：兔美
+
+// 1代 角色
+Naegi Makoto = 苗木 诚
+Kirigiri Kyoko = 雾切 响子
+Maizono Sayaka = 舞园 沙耶香
+Kuwata Leon = 桑田 怜恩
+Togami Byakuya = 十神 白夜
+Fukawa Toko = 腐川 冬子
+Asahina Aoi = 朝日奈 葵
+Ogami Sakura = 大神 樱
+Ishimaru Investment = 石丸 清多夏
+Owada Mondo = 大和田 纹土
+Fujisaki Chihiro = 不二咲 千寻
+Yamada Hifumi = 山田 一二三
+Hagakure Yasuhiro = 叶隐 康比吕
+Celestia Ludenberg = 塞蕾丝缇雅 罗登贝克
+Enoshima Junko = 江之岛 盾子
+Ikusaba Mukuro = 战刃 骸
+Monokuma：黑白熊
+
+// V3 角色
+Akamatsu Kaede = 赤松 枫
+Amami Rantarou = 天海 兰太郎
+Iruma Miu = 入间 美兔
+Ouma Kokichi = 王马 小吉
+Gokuhara Gonta = 狱原 权太
+Keebo：机望
+Saihara Shuichi = 最原 终一
+Shirogane Tsumugi = 白银 紬
+Shinguji Korekiyo = 真宫寺 是清
+Chabashira Tenko = 茶柱 转子
+Toujou Kirumi = 东条 斩美
+Harukawa Maki = 春川 魔姬
+Hoshi Ryoma = 星 龙马
+Momota Kaito = 百田 解斗
+Yumeno Himiko = 梦野 秘密子
+Angie Yonaga = 安洁 夜长
+
+// 绝望篇/未来篇 角色
+Kizakura Koichi = 黄樱 公一
+Jin：仁
+Yukizome Chisa = 雪染 千纱
+
+// 专有名词与设定
+Ultimate：超高校级
+Hope's Peak：希望之峰
+Remnants of Despair：绝望残党
+Future Foundation：未来机关
+Motivation Video：动机影片
+Class Trial：学级审判
+Murder Game：自相残杀
+Kill Game：杀戮游戏
+Jabberwock Island：贾巴沃克岛
+New World Program：新世界程序
+Reserve Course：预备学科
+Main Course：本科
+Despair Disease：绝望病
+Monokuma File：黑白熊档案
+Body Discovery Announcement：尸体发现广播
+Execution：处刑
+Memory Light：记忆灯
+Flashback Light：回忆灯
+Virtual World：虚拟世界
+Gofer Project：界外者计划
