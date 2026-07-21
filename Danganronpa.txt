@@ -30,6 +30,7 @@ Monomi：莫诺美
 Monomi：兔美
 Imposter：欺诈师
 Servant: 召使
+Hinata-kun: 日向君
 
 // 1代 角色
 Naegi Makoto = 苗木 诚
